@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/niwa_ab" target="blank"><img src="https://img.shields.io/twitter/follow/niwa_ab?logo=twitter&style=for-the-badge" alt="niwa_ab" /></a> </p>
 
-- 🔭 I’m currently working on **Desktop app development**
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **BSc(Hons) Information Technology**
 
