@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niwarthana Abayawardhana</h1>
-<h3 align="center">A passionate Software developer from Sri Lanka</h3>
+<h3 align="center">A passionateFull stack software developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-n-s-abayawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="h-n-s-abayawardhana" /> </p>
 
@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/niwa_ab" target="blank"><img src="https://img.shields.io/twitter/follow/niwa_ab?logo=twitter&style=for-the-badge" alt="niwa_ab" /></a> </p>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on ** Web App Development**
 
 - 🌱 I’m currently learning **BSc(Hons) Information Technology**
 
-- 👯 I’m looking to collaborate on **MERN App development project**
+- 👯 I’m looking to collaborate on **MERN App development **
 
-- 🤝 I’m looking for help with **Mobile Application development**
+- 🤝 I’m looking for help with **Web Application development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/H-N-S-Abayawardhana](https://github.com/H-N-S-Abayawardhana)
 
 - 💬 Ask me about **desktop application development, web application development and web sites developments**
 
-- 📫 How to reach me **niwaofficial1@gmail.com**
+- 📫 How to reach me **hnsabayawardhana@gmail.com**
 
-- ⚡ Fun fact **Everything Funny**
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
