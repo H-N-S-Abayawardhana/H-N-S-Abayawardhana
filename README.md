@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niwarthana Abayawardhana</h1>
-<h3 align="center">A passionateFull stack software developer </h3>
+<h3 align="center">A passionate Full stack software developer from Sri Lanka </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-n-s-abayawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="h-n-s-abayawardhana" /> </p>
 
@@ -11,13 +11,11 @@
 
 - 🌱 I’m currently learning **BSc(Hons) Information Technology**
 
-- 👯 I’m looking to collaborate on **MERN App development **
-
-- 🤝 I’m looking for help with **Web Application development**
+- 👯 I’m looking to collaborate on **MERN App development, Flutter mobile application development and C#.Net Desktop application development **
 
 - 👨‍💻 All of my projects are available at [https://github.com/H-N-S-Abayawardhana](https://github.com/H-N-S-Abayawardhana)
 
-- 💬 Ask me about **desktop application development, web application development and web sites developments**
+- 💬 Ask me about **desktop application development,Mobile application development, web application development and web sites developments**
 
 - 📫 How to reach me **hnsabayawardhana@gmail.com**
 
