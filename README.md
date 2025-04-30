@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niwarthana Abayawardhana</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 Passionate Tech Explorer | 🇱🇰 From Sri Lanka</h3>
+<h3 align="center">🚀 Full Stack Developer | 💻 Passionate Tech Explorer | 🇱🇰 Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=h-n-s-abayawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,24 +8,22 @@
 
 ---
 
-### 🌟 GitHub Trophies
+### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=h-n-s-abayawardhana&theme=onedark&no-frame=true&row=1&column=7" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=h-n-s-abayawardhana&theme=gruvbox&no-frame=true&margin-w=10&row=1&column=7" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on: **Full Stack Web App Development**
-- 🌱 Pursuing: **BSc (Hons) in Information Technology @ SLIIT**
-- 👯 Looking to collaborate on: **MERN apps, Flutter apps, and .NET desktop solutions**
-- 💬 Ask me about: **Desktop, Mobile, Web, and Full Stack Development**
-- 🧠 Fun Fact: I love turning coffee into code ☕💻
-- 📫 Reach me at: **hnsabayawardhana@gmail.com**
-- 🔗 Portfolio & Projects: [GitHub Profile](https://github.com/H-N-S-Abayawardhana)
+- 🔭 I’m currently working on **Full Stack Web App Development**
+- 🎓 Studying **BSc (Hons) in Information Technology @ SLIIT**
+- 🤝 Looking to collaborate on **MERN, Flutter, and .NET Projects**
+- 💬 Ask me about **Desktop, Web, Mobile Development**
+- 🧠 Fun Fact: I code better with coffee ☕
+- 📫 Email me at: **hnsabayawardhana@gmail.com**
+- 🌍 Portfolio/GitHub: [github.com/H-N-S-Abayawardhana](https://github.com/H-N-S-Abayawardhana)
 
 ---
 
@@ -35,12 +33,12 @@
   <a href="https://linkedin.com/in/niwa_ab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/niwa_ab" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://instagram.com/niwa_ab" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://fb.com/niwarthana abayawardhana" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://facebook.com/niwarthana abayawardhana" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -63,12 +61,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-n-s-abayawardhana&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-n-s-abayawardhana&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h-n-s-abayawardhana&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=h-n-s-abayawardhana&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-n-s-abayawardhana&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-n-s-abayawardhana&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -82,7 +80,8 @@
 
 ---
 
-<!-- Optional Fun Emoji Footer -->
+### 🤣 Dev Joke of the Day
+
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Joke" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
 </p>
