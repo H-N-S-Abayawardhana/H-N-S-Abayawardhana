@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niwarthana Abayawardhana</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 Passionate Tech Explorer | 🇱🇰 Sri Lanka</h3>
+<h3 align="center">🚀 Full Stack Developer | 💻 Tech Explorer | 🇱🇰 Sri Lanka</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=h-n-s-abayawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,21 +9,21 @@
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=h-n-s-abayawardhana&theme=gruvbox&no-frame=true&margin-w=10&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=h-n-s-abayawardhana&theme=gruvbox&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Web App Development**
-- 🎓 Studying **BSc (Hons) in Information Technology @ SLIIT**
-- 🤝 Looking to collaborate on **MERN, Flutter, and .NET Projects**
-- 💬 Ask me about **Desktop, Web, Mobile Development**
-- 🧠 Fun Fact: I code better with coffee ☕
-- 📫 Email me at: **hnsabayawardhana@gmail.com**
-- 🌍 Portfolio/GitHub: [github.com/H-N-S-Abayawardhana](https://github.com/H-N-S-Abayawardhana)
+- 🔭 Currently working on: **Full Stack Web Applications**
+- 🎓 Pursuing **BSc (Hons) in Information Technology @ SLIIT**
+- 🤝 Open to collaborations on: **MERN, Flutter, .NET projects**
+- 💬 Ask me about: **Web, Desktop, and Mobile App Development**
+- 📧 Reach me at: **hnsabayawardhana@gmail.com**
+- 🔗 GitHub: [github.com/H-N-S-Abayawardhana](https://github.com/H-N-S-Abayawardhana)
 
 ---
 
@@ -62,11 +62,15 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=h-n-s-abayawardhana&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=h-n-s-abayawardhana&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-n-s-abayawardhana&layout=compact&theme=tokyonight" height="165" />
 </p>
 
+---
+
+### 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-n-s-abayawardhana&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=h-n-s-abayawardhana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -83,5 +87,5 @@
 ### 🤣 Dev Joke of the Day
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Random Joke" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke" />
 </p>
