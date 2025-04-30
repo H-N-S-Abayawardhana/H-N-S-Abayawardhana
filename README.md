@@ -69,9 +69,7 @@
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=h-n-s-abayawardhana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h-n-s-abayawardhana&" alt="h-n-s-abayawardhana" /></p>
 
 ---
 
