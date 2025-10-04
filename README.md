@@ -20,7 +20,7 @@
 
 - 🔭 Currently working on: **Full Stack Web Applications**
 - 🎓 Pursuing **BSc (Hons) in Information Technology @ SLIIT**
-- 🤝 Open to collaborations on: **MERN, Flutter, .NET projects**
+- 🤝 Open to collaborations on: **NextJS,MERN, React Native, Flutter, .NET projects**
 - 💬 Ask me about: **Web, Desktop, and Mobile App Development**
 - 📧 Reach me at: **hnsabayawardhana@gmail.com**
 - 🔗 GitHub: [github.com/H-N-S-Abayawardhana](https://github.com/H-N-S-Abayawardhana)
